@@ -9,8 +9,8 @@
         <p>My nickname is Opal</p>
         <h2>แนะนำตัว</h2>
         <p>สวัสดีครับผมชื่อ นายกรวิชญ์ ประเสริฐดี ชื่อเล่นชื่อ โอปอล</p>
-        <img src="a.png">
-        <img src="b.png">
+        <img src="a.jpg">
+        <img src="b.jpg">
         <br>
         <h2><a href="http://youtube.com">This is my favorite Link</a></h2>
 
